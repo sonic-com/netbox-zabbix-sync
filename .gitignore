@@ -4,3 +4,4 @@ config.py
 test.py
 *.pyc
 *.pyo
+__pycache__/
